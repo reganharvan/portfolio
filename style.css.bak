@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap');
+
+*{
+	margin: 0;
+	border: none;
+	font-family: "Lexend", sans-serif;
+	cursor: default;
+}
+
+html{
+	scroll-snap-type: block mandatory;
+	font-size: max(4.5vh, 24px)
+}
+
+body{
+	min-width: 720px;
+}
+
+section{
+	background-color: #322C2B;
+	height: max(100vh, 360px);
+	scroll-snap-align: start;
+}
+
+.title-1{
+	color: #FDFDFD;
+	font-size: 2em;
+}
+
+.title-2{
+	color: #FDFDFD;
+	font-size: 2em;
+	font-weight: 600;
+}
+
+.subtitle-1{
+	color: #A08C88;
+	font-weight: 300;
+	font-size: 1em;
+	margin-top: 0.5em;
+}
+
+.subtitle-2{
+	color: #FDFDFD;
+	font-weight: 300;
+	font-size: 1em;
+}
+
+.page-1{
+	position: relative;
+}
+
+.text-section{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin-left: 40vw;
+	height: max(100vh, 360px);
+}
+
+.img-portrait{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	height: max(89vh, 320.4px);
+}
+
+.img-arrow-down{
+	position: absolute;
+	height: 0.7em;
+	bottom: 10vh;
+	left: 60vw;
+}
+
+.page-2-div{
+	margin-left: 10vw;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 40vw;
+	height: 100%;
+}
+
+.page-2{
+	position: relative;
+}
+
+.img-building{
+	position: absolute;
+	width: 50vh;
+	height: 80vh;
+	object-fit: cover;
+	right: 10vw;
+	top: 10vh;
+	border-radius: 10px;
+}
+
+.page-3-div{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+
+.social-media-div{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.social-media-icon{
+	height: 1em;
+	margin: 0.5em 0.5em;
+	cursor: pointer;
+}
+
+.animate.fade{
+	animation-duration: 2s;
+	animation-name: animate-fade;
+	animation-timing-function: ease;
+	animation-fill-mode: backwards;
+}
+
+.delay-1{
+	animation-delay: 0.7s;
+}
+
+.delay-2{
+	animation-delay: 1.4s;
+}
+
+.delay-3{
+	animation-delay: 2.1s;
+}
+
+@keyframes animate-fade {
+  0% {
+    opacity: 0;
+    filter: blur(10px);
+  }
+  100% {
+    opacity: 1;
+    filter: blur(0);
+  }
+}
+
+
+

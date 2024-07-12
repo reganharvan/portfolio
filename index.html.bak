@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Regan Harvan</title>
+		<link rel="icon" href="assets/icon.svg">
+		<link rel="stylesheet" href="style.css">
+	</head>
+	
+	<body>
+		<section class="page-1">
+			<img class="img-portrait" src="assets/me.png">
+			<div class="text-section">
+				<p class="title-1 animate fade">Hi, I'm</p>
+				<p class="title-2 animate fade delay-1">Regan Harvan</p>
+				<p class="subtitle-1 animate fade delay-2">Currently studying Civil Engineering<br>at Gadjah Mada University</p>
+			</div>
+			<img class="img-arrow-down animate fade delay-3" src="assets/arrow down.png">
+		</section>
+		
+		<section class="page-2">
+			<img class="img-building" src="assets/building-image.png">
+			<div class="page-2-div">
+				<p class="title-1">About me</p>
+				<p class="subtitle-1">A civil engineering student whose dream is to help the world in achieving net zero emissions through the construction sector</p>
+			</div>
+		</section>
+		
+		<section class="page-3">
+			<div class="page-3-div">
+				<p class="subtitle-2">Contact me</p>
+				<div class="social-media-div">
+					<a href="https://www.linkedin.com/in/regan-harvan-2b80922a7/"><img class="social-media-icon" src="assets/linkedin.png"></a>
+					<a href="https://www.instagram.com/regnhrvan/"><img class="social-media-icon" src="assets/instagram.png"></a>
+					<a href=mailto:“reganharvan@gmail.com"><img class="social-media-icon" src="assets/gmail.png"></a>
+				</div>
+			</div>
+		</section>
+	</body>
+</html>
