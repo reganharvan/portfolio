@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1407"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs1401" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1173.9707"
+     inkscape:cy="203.42723"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1404">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1435"
+       transform="matrix(0.35007753,0,0,0.35007753,-41.830759,18.242969)"
+       style="stroke-width:2.85651">
+      <circle
+         style="fill:#312b2a;fill-opacity:1;stroke:#ffffff;stroke-width:7.55784;stroke-linecap:round;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path1389"
+         cx="262.31549"
+         cy="90.714279"
+         r="139.04659"
+         inkscape:export-filename="D:\File Regan\Programming\HTML\Portfolio\assets\logo.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192" />
+      <path
+         id="path1351"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:100.559px;line-height:1.25;font-family:Lexend;-inkscape-font-specification:'Lexend, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.755784"
+         d="M 170.88154,-13.794573 V 148.59191 h 36.93934 V 71.604353 h 19.23656 c 8.55714,8.90061 10.9368,19.849968 10.9368,42.608257 v 81.01002 h 39.49939 v -46.63072 h 36.75641 v 46.63125 h 39.4994 V 44.174497 h -39.4994 v 70.038113 h -36.65254 -0.10387 c 0,-26.296536 -5.58248,-39.542371 -18.75699,-50.622751 5.01673,-3.478794 9.07687,-7.87601 12.17342,-13.198157 3.90117,-6.705176 5.85183,-14.507289 5.85183,-23.40684 0,-7.924271 -1.95066,-14.934142 -5.85183,-21.029745 -3.90119,-6.09557654 -9.326,-10.9112048 -16.27498,-14.4466466 -6.94897,-3.5354414 -14.87315,-5.3030434 -23.77271,-5.3030434 z m 36.93934,31.087509 h 16.09256 c 3.29161,0 5.97351,0.548693 8.04602,1.645894 2.19442,0.97528 3.77945,2.438294 4.75475,4.388881 1.0972,1.828668 1.64538,4.083923 1.64538,6.766005 0,2.925894 -0.54818,5.424699 -1.64538,7.497206 -0.9753,2.072508 -2.49931,3.71856 -4.57181,4.937681 -1.95059,1.097201 -4.44993,1.645867 -7.49774,1.645894 h -16.82378 z"
+         inkscape:export-filename="D:\File Regan\Programming\HTML\Portfolio\assets\logo.png"
+         inkscape:export-xdpi="192"
+         inkscape:export-ydpi="192" />
+    </g>
+  </g>
+</svg>
